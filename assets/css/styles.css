@@ -1,0 +1,35 @@
+#easy-update-urls-spinner{
+    display: none;
+}
+.easy-update-urls-description {
+   /* margin-top: 10px; */
+    font-size: 14px;
+}
+
+.wrap-easy-update-urls {
+    margin-top: 10px;
+    font-size: 16px;
+}
+#easy-update-urls-logo {
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+#easy-update-urls-thead {
+    background-color: gray;
+    color: white;
+    height: 25px;
+      }
+#easy-update-urls-td, #easy-update-urls-thead {
+    border: 1px solid #777;
+    padding: 0.5rem;
+    text-align: center;
+}
+#easy-update-urls-table {
+    border-collapse: collapse;
+}
+#easy-update-urls-tbody #easy-update-urls-tr:nth-child(odd) {
+    background: #eee;
+}
+#easy-update-urls-caption {
+    font-size: 0.8rem;
+}
